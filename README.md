@@ -1,2 +1,1 @@
-# ie360statisticalforecasting
-Forecasting model for hourly Solar Energy Production
+# IE360 - Time Series Forecasting of Solar Energy Production using ARIMAX
